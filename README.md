@@ -22,9 +22,19 @@
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+  </div>
+
+  <div display="flex">
       <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  </div>
+
+  <div display="flex">
+      <img src = "https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+      <img src = "https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+      <img src = "https://img.shields.io/badge/Amazon RDS-2088FF?style=flat-square&logo=amazonrds&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+      <img src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   </div>
 
   <div display="flex">
